@@ -2,7 +2,7 @@ pipeline{
     agent any
 
     environment {
-        IMAGE_NAME = "manojkrishnappa/GameAppBackend:${GIT_COMMIT}"
+        IMAGE_NAME = "manojkrishnappa/gameappbackend:${GIT_COMMIT}"
     }
 
     stages{
