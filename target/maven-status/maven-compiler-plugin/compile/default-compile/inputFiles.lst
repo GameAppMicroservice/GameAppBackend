@@ -1,0 +1,8 @@
+/Users/manojkrishnappa/SmallMicroService/backend/src/main/java/com/gameapp/api/GameAppApiApplication.java
+/Users/manojkrishnappa/SmallMicroService/backend/src/main/java/com/gameapp/api/config/SecurityConfig.java
+/Users/manojkrishnappa/SmallMicroService/backend/src/main/java/com/gameapp/api/model/User.java
+/Users/manojkrishnappa/SmallMicroService/backend/src/main/java/com/gameapp/api/repository/UserRepository.java
+/Users/manojkrishnappa/SmallMicroService/backend/src/main/java/com/gameapp/api/service/UserService.java
+/Users/manojkrishnappa/SmallMicroService/backend/src/main/java/com/gameapp/api/web/AuthController.java
+/Users/manojkrishnappa/SmallMicroService/backend/src/main/java/com/gameapp/api/web/AuthDtos.java
+/Users/manojkrishnappa/SmallMicroService/backend/src/main/java/com/gameapp/api/web/DashboardController.java
